@@ -1,0 +1,7 @@
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\bin\Debug\Lab2_Task5.exe.config
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\bin\Debug\Lab2_Task5.exe
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\bin\Debug\Lab2_Task5.pdb
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\obj\Debug\Lab2_Task5.csprojAssemblyReference.cache
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\obj\Debug\Lab2_Task5.csproj.CoreCompileInputs.cache
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\obj\Debug\Lab2_Task5.exe
+F:\University\OOP\Lab2\Lab2_Task5\Lab2_Task5\obj\Debug\Lab2_Task5.pdb
