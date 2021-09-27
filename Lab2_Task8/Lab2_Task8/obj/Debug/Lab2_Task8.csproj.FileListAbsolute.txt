@@ -1,0 +1,14 @@
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\bin\Debug\Lab2_Task8.exe.config
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\bin\Debug\Lab2_Task8.exe
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\bin\Debug\Lab2_Task8.pdb
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.csprojAssemblyReference.cache
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.csproj.CoreCompileInputs.cache
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.exe
+F:\University\OOP\Lab2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.pdb
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\bin\Debug\Lab2_Task8.exe.config
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\bin\Debug\Lab2_Task8.exe
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\bin\Debug\Lab2_Task8.pdb
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.csprojAssemblyReference.cache
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.csproj.CoreCompileInputs.cache
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.exe
+F:\University\OOP\Lab2\Lab_2\Lab2_Task8\Lab2_Task8\obj\Debug\Lab2_Task8.pdb
